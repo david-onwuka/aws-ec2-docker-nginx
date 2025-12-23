@@ -72,5 +72,5 @@ http://<http://13.222.184.218:8081
 To avoid unnecessary cloud charges, the EC2 instance was stopped after project verification.
 The project remains fully documented and can be redeployed at any time using the same steps.
 
-![Nginx running](nginx-demo.png)
-![Nginx running](nginx-demo1.png)
+![Nginx running](nginx-demo.png.jpeg)
+![Nginx running](nginx-demo1.png.jpeg)
